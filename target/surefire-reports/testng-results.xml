@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2021-10-04T21:09:44Z" finished-at="2021-10-04T21:09:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2021-10-04T21:09:44Z" finished-at="2021-10-04T21:09:44Z">
+      <class name="MavenProject.FirstMavenE2EProject.seleniumTest">
+        <test-method status="PASS" signature="browserTest()[pri:0, instance:MavenProject.FirstMavenE2EProject.seleniumTest@f0f2775]" name="browserTest" duration-ms="9" started-at="2021-10-04T21:09:44Z" finished-at="2021-10-04T21:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method status="PASS" signature="elementui()[pri:0, instance:MavenProject.FirstMavenE2EProject.seleniumTest@f0f2775]" name="elementui" duration-ms="0" started-at="2021-10-04T21:09:44Z" finished-at="2021-10-04T21:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- MavenProject.FirstMavenE2EProject.seleniumTest -->
+      <class name="MavenProject.FirstMavenE2EProject.ApiumTest">
+        <test-method status="PASS" signature="anroid()[pri:0, instance:MavenProject.FirstMavenE2EProject.ApiumTest@5a4aa2f2]" name="anroid" duration-ms="0" started-at="2021-10-04T21:09:44Z" finished-at="2021-10-04T21:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anroid -->
+        <test-method status="PASS" signature="ios()[pri:0, instance:MavenProject.FirstMavenE2EProject.ApiumTest@5a4aa2f2]" name="ios" duration-ms="0" started-at="2021-10-04T21:09:44Z" finished-at="2021-10-04T21:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ios -->
+      </class> <!-- MavenProject.FirstMavenE2EProject.ApiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
